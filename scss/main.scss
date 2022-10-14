@@ -1,0 +1,9 @@
+//디자인 가이드
+
+@import "vars";
+@import "mixins";
+#main-visual {
+  background-image: url(../images/layout/logo_w.svg);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
